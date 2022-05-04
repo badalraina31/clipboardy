@@ -94,15 +94,10 @@ angular-highlightjs@^0.5.1:
   resolved "https://registry.yarnpkg.com/angular-highlightjs/-/angular-highlightjs-0.5.1.tgz#be37fc270be1086103837bfc6644cc1539445b89"
   integrity sha1-vjf8JwvhCGEDg3v8ZkTMFTlEW4k=
 
-angular@1.2.29:
-  version "1.2.29"
-  resolved "https://registry.yarnpkg.com/angular/-/angular-1.2.29.tgz#4909377312037404612007f6efcf329b620b22af"
-  integrity sha1-SQk3cxIDdARhIAf2788ym2ILIq8=
-
-angular@>=1.0.8:
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/angular/-/angular-1.8.0.tgz#b1ec179887869215cab6dfd0df2e42caa65b1b51"
-  integrity sha512-VdaMx+Qk0Skla7B5gw77a8hzlcOakwF8mjlW13DpIWIDlfqwAbSSLfd8N/qZnzEmQF4jC4iofInd3gE7vL8ZZg==
+angular@1.8.3, angular@>=1.0.8:
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.8.3.tgz#851ad75d5163c105a7e329555ef70c90aa706894"
+  integrity sha512-5qjkWIQQVsHj4Sb5TcEs4WZWpFeVFHXwxEBHUhrny41D8UrBAd6T/6nPPAsLngJCReIOqi95W3mxdveveutpZw==
 
 ansi-colors@^1.0.1:
   version "1.1.0"
