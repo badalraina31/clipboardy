@@ -94,10 +94,10 @@ angular-highlightjs@^0.5.1:
   resolved "https://registry.yarnpkg.com/angular-highlightjs/-/angular-highlightjs-0.5.1.tgz#be37fc270be1086103837bfc6644cc1539445b89"
   integrity sha1-vjf8JwvhCGEDg3v8ZkTMFTlEW4k=
 
-angular@1.2.29:
-  version "1.2.29"
-  resolved "https://registry.yarnpkg.com/angular/-/angular-1.2.29.tgz#4909377312037404612007f6efcf329b620b22af"
-  integrity sha1-SQk3cxIDdARhIAf2788ym2ILIq8=
+angular@1.6.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.6.0.tgz#16c5edebd0a342046bd5281cca2decf04c40df76"
+  integrity sha512-2iYr9Jkh2HNQjKUnsF48ej+BdB93VA98blnc5t5XvaxPntjGKj4Lu1juZC+i7/5g8w7FeJ/dSSCuij2XquxrJQ==
 
 angular@>=1.0.8:
   version "1.8.0"
@@ -1363,9 +1363,9 @@ decamelize@^1.0.0, decamelize@^1.1.2, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 defaults@^1.0.0:
   version "1.0.3"
